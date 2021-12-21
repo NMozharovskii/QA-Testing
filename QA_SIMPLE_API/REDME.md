@@ -17,37 +17,37 @@ POST_pet_simple
 
 Используя метод POST отправляем запрос на создание карточки животного по указанным параметрам **(без изображени)я**.
 
-![image](https://drive.google.com/file/d/1BIQbBrrrjbgzgFPJYsHbk1Akc6l79S3c/view?usp=sharing)
-![image](https://drive.google.com/file/d/1J3CjCI9NxJhPVsg4e1_T78pxPhYthhBO/view?usp=sharing)
+![image](https://sun9-69.userapi.com/impg/afD5gpswYfFIXJXo-m5ez0I5A2GJypW43aXgVg/T6NLkCeLF2c.jpg?size=843x181&quality=96&sign=47f4754548e3766f02a73caff8c91feb&type=album)
+![image](https://sun9-86.userapi.com/impg/nMBNAwsj96yPkgOIvKJy1B1_X7weChN98lDMWQ/yXep_dB6xJE.jpg?size=649x182&quality=96&sign=0cf9544ab443d6a5ffbf758b08bff2fd&type=album)
 
 GET_pet_list
 
 Снова используем метод GET и получаем данные по созданным карточкам. Отсюда вытаскиваем **id**, который понадобится 
 для внесения правок в карточку.
 
-![image](https://drive.google.com/file/d/1z9-5QBP6wH9g_P6ShXZf2OvG5Oq9FaLL/view?usp=sharing)
+![image](https://sun9-68.userapi.com/impg/o23C5RTgX9MqemnX3rH2PrHHFhY7TDw9Jo1W7w/LLeNQV4EQus.jpg?size=1149x192&quality=96&sign=54e5b3da0208c621f69802a078613bf5&type=album)
 
 POST_new_pet
 
 Используя метод POST отправляем запрос на создание карточки животного по указанным параметрам **(с изображение)**.
 
-![image](https://drive.google.com/file/d/1XYi3oxV91WVuGue5dSQgcANjM3o7zS9M/view?usp=sharing)
-![image](https://drive.google.com/file/d/1TmT9dCm54I5k2n6nX3gWrzhX5wUVPIwA/view?usp=sharing)
+![image](https://sun9-24.userapi.com/impg/I1CMODNytg4s-2fp4yZliZPUTbMbHKRqvvWL0g/Zoc7lLUdNUE.jpg?size=1280x238&quality=96&sign=25da206725e1bfee3ef177957b83fc5a&type=album)
+![image](https://sun9-9.userapi.com/impg/WtvyM_TxkCKEUdfkNx0z8raGaA8g8O7-UjXs0A/dutG78CyqKI.jpg?size=663x187&quality=96&sign=08be50bc096a41585bbb3c7f6c014da2&type=album)
 
 PUT_pet_info
 
 Используя метод PUT мы можем внести изменения в карточку, что мы и делаем, используя тот самый **id**, 
 который я упоминал ранее. А так же получаем данные по конкретной карточке.
 
-![image](https://drive.google.com/file/d/1fggDzm8iTUGW3VSLx-lpp6f2RkX0NkS7/view?usp=sharing)
-![image](https://drive.google.com/file/d/1fyXDbRIFeT1XPNlEYtGfvyG_NM6VyRq6/view?usp=sharing)
+![image](https://sun9-22.userapi.com/impg/IUxKK7W12aQyc67YuQYE_A8PgLs80jCuJ5Lu9g/6VXV3pc24DU.jpg?size=1062x208&quality=96&sign=a57d6958e9cc5325d4e976968bb00090&type=album)
+![image](https://sun9-65.userapi.com/impg/gBFe5SZ7snEhRyimfBmprIVMq530r-xEtjYxLg/rRf1DEMP45Y.jpg?size=662x102&quality=96&sign=7050efe22f18d4c8c5528df15a7816bf&type=album)
 
 DELETE_pet
 
 Используем метод DELETE и удаляем карточку по ее **id**.
 
-![image](https://drive.google.com/file/d/1C6z3U4oFVdXDbCxYw_jROLpYmInMxgAz/view?usp=sharing)
-![image](https://drive.google.com/file/d/1eFo3LzSX4VD4Kq-IhsouR9fFdEt0bp8R/view?usp=sharing)
+![image](https://sun9-34.userapi.com/impg/vuIa2pUDpwSu05_wx9uErID_i9s73MTsHjE0hQ/Bn7rH3v_lLA.jpg?size=808x187&quality=96&sign=731aea0bcbcebabf684b264949ff346c&type=album)
+![image](https://sun9-86.userapi.com/impg/nMBNAwsj96yPkgOIvKJy1B1_X7weChN98lDMWQ/yXep_dB6xJE.jpg?size=649x182&quality=96&sign=0cf9544ab443d6a5ffbf758b08bff2fd&type=album)
 
 ### **Раздел№2. Тестирование**
 
@@ -72,7 +72,7 @@ DELETE_pet
 
 На скриншоте представлено успешное выполнение всех тестов.
 
-![image](https://drive.google.com/file/d/1_fQ8BsF2ce95e6bJwp399r-TK1iaKg6r/view?usp=sharing)
+![image](https://sun9-15.userapi.com/impg/4mxCFHjqUy7m1-Uw_XW03F0G7hPKn7hJ2MPajg/FeFxT0eKNxs.jpg?size=1070x528&quality=96&sign=f6ccdfea248ca950b7c2373e8fc29a00&type=album)
 
 
 
