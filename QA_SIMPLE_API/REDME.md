@@ -10,7 +10,7 @@ GET_api_key
 Этот этап необходимо провести прежде всех остальных, 
 поскольку дальнейшая работа требует ключ.
 
-https://sun9-3.userapi.com/impg/kFiDzz4DdaI7QDSq5lINx86dWT7dbe7EypB5xQ/AgX3XUyqRT4.jpg?size=807x192&quality=96&sign=99a89a5b41163c58951e757ac715143f&type=album![image](https://user-images.githubusercontent.com/90044616/146928091-5670af5d-44a8-49d9-8925-2c8b25fe05fa.png)
+![image](https://sun9-3.userapi.com/impg/kFiDzz4DdaI7QDSq5lINx86dWT7dbe7EypB5xQ/AgX3XUyqRT4.jpg?size=807x192&quality=96&sign=99a89a5b41163c58951e757ac715143f&type=album![image](https://user-images.githubusercontent.com/90044616/146928091-5670af5d-44a8-49d9-8925-2c8b25fe05fa.png)
 
 
 POST_pet_simple
